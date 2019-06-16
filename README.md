@@ -20,7 +20,7 @@ This project is deployed, and the only requirement for use is a browser!
 
 ## Authors
 
-* **Stephen Johnson** - *Initial work* - [Wikipockets](https://github.com/PurpleBooth)
+* **Stephen Johnson** - *Initial work* - [Wikipockets](https://github.com/wikipockets)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
