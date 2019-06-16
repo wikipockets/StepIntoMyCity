@@ -16,6 +16,7 @@ This project is deployed, and the only requirement for use is a browser!
 
 * [AFrame.io](https://aframe.io/docs/0.9.0/introduction/) - The VR web framework used
 * [Mongoose](https://mongoose-os.com/) - Embedded Live Web Server
+* [Glitch](https://glitch.com/) - Online IDE with Instant Compile/
 
 
 ## Authors
